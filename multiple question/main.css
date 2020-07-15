@@ -1,0 +1,78 @@
+body{
+    position: relative;
+    height: 100%;
+}
+.cont{
+    position: relative;
+    border: solid blue;
+    width: 70%;
+    left: 15%;
+    top: 15%;
+    height: 60%;
+    background-color: white;
+   
+}
+
+.heading{
+    text-align: center;
+    color: rgb(71, 15, 71);
+}
+hr{
+    border-style: groove;
+    color: aqua;
+}
+.text{
+    position: relative;
+    left: 28%;
+    margin-top: 5%;
+}
+.options{
+    position: relative;
+    left: 28%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+.ques{
+    position: relative;
+    width: 100%;
+}
+.panel{
+    position: relative;
+    width: 35%;
+    border: medium blue;
+    background-color: aqua;
+}
+
+ul{
+    position: relative;
+    display: flex;
+    margin: 5% auto;
+    list-style-type: none;
+    text-align: center;
+    left: -4%;
+}
+li{
+    margin: 3px 10px;
+}
+button{
+        height: 38px;
+        width: 76px;
+        text-align: center;
+        margin: auto;
+        background-color: rgb(132, 74, 187);
+        border: solid rgb(132, 74, 187);
+        
+    
+}
+
+button{
+    position: relative;
+    left: 45%;
+    margin-bottom: 10px;
+}
+.result{
+    position: relative;
+    display: block;
+    width: 70% ;
+    left: 15%;
+}
